@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Modeulos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promesas",
+    "callback",
+    "asyn",
+    "xml"
+  ],
+  "author": "Carlos RIvera",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.9",
+    "xmlhttprequest": "^1.8.0",
+    "xmlhttprequest-ssl": "^2.0.0"
+  }
+}
